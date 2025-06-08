@@ -163,12 +163,6 @@ This project is open-sourced under the [MIT license](LICENSE).
 
 ---
 
-## ✨ Credits
-
-Crafted with ❤️ using Laravel, Livewire, and Tailwind by **Shervin Pouryazdanpanah**.
-
----
-
 ## 🔗 Helpful Links
 
 -   [Laravel Documentation](https://laravel.com/)
@@ -176,3 +170,9 @@ Crafted with ❤️ using Laravel, Livewire, and Tailwind by **Shervin Pouryazda
 -   [Volt](https://volt.laravel.com/)
 -   [Lighthouse GraphQL](https://lighthouse-php.com/)
 -   [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
+## ✨ Credits
+
+Crafted with ❤️ using Laravel, Livewire, and Tailwind by **Shervin Pouryazdanpanah**.
